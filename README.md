@@ -23,4 +23,3 @@ For easy setup all projects can be run through `docker-compose`. API also expose
 Project can be Run in 2 ways.
 - By running instances of `SouthernCross.WebApi`, and `SouthernCross.React` projects through VS (for React you can also use `npm start` command through CLI)
 - By running `docker-compose build && docker-compose up`
-
